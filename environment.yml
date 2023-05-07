@@ -1,0 +1,7 @@
+name: quizzy
+channels:
+  - conda-forge 
+dependencies:
+  - streamlit
+  - beautifulsoup4
+prefix: /Users/mgardner/miniconda3/envs/quizzy
